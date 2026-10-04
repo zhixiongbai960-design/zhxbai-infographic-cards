@@ -1,0 +1,4 @@
+interface:
+  display_name: "志雄的图解信息卡"
+  short_description: "把文章观点转成高密度图解卡片，保留品牌风格，适合小红书收藏与发布"
+  default_prompt: "使用 $zhxbai-infographic-cards，把这篇文章做成精炼、有收藏价值的图解信息卡。"
